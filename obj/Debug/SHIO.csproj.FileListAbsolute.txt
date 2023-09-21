@@ -1,0 +1,186 @@
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\obj\Debug\SHIO.csproj.AssemblyReference.cache
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\obj\Debug\SHIO.KA6.resources
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\obj\Debug\SHIO.Properties.Resources.resources
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\obj\Debug\SHIO.csproj.GenerateResource.cache
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\obj\Debug\SHIO.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\SHIO.exe.config
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\SHIO.exe
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\SHIO.pdb
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\obj\Debug\SHIO.exe
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\obj\Debug\SHIO.pdb
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\KA6.mdf
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\KA6_log.ldf
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Azure.Core.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Azure.Identity.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Buffers.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Memory.Data.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Memory.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Security.Permissions.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Text.Json.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.ValueTuple.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Azure.Core.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Azure.Identity.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Buffers.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Memory.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Memory.Data.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Security.Permissions.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Text.Json.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\System.ValueTuple.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\obj\Debug\SHIO.csproj.CopyComplete
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\obj\Debug\SHIO.SHIO_app.resources
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\obj\Debug\SHIO.About_developer.resources
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\obj\Debug\SHIO.BMI_calculator.resources
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\obj\Debug\SHIO.About_6KA.resources
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\LiveCharts.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\LiveCharts.pdb
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\LiveCharts.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Рома\Documents\Курсовая работа 2_0\SHIO\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\KA6.mdf
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\KA6_log.ldf
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\SHIO.exe.config
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\SHIO.exe
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\SHIO.pdb
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Azure.Core.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Azure.Identity.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\LiveCharts.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Buffers.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Memory.Data.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Memory.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Security.Permissions.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Text.Json.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.ValueTuple.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Azure.Core.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Azure.Identity.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\LiveCharts.pdb
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\LiveCharts.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Buffers.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Memory.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Memory.Data.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Security.Permissions.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Text.Json.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\System.ValueTuple.xml
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Рома\Documents\Курсовая работа\SHIO\obj\Debug\SHIO.csproj.AssemblyReference.cache
+C:\Users\Рома\Documents\Курсовая работа\SHIO\obj\Debug\SHIO.About_6KA.resources
+C:\Users\Рома\Documents\Курсовая работа\SHIO\obj\Debug\SHIO.About_developer.resources
+C:\Users\Рома\Documents\Курсовая работа\SHIO\obj\Debug\SHIO.BMI_calculator.resources
+C:\Users\Рома\Documents\Курсовая работа\SHIO\obj\Debug\SHIO.KA6.resources
+C:\Users\Рома\Documents\Курсовая работа\SHIO\obj\Debug\SHIO.Properties.Resources.resources
+C:\Users\Рома\Documents\Курсовая работа\SHIO\obj\Debug\SHIO.SHIO_app.resources
+C:\Users\Рома\Documents\Курсовая работа\SHIO\obj\Debug\SHIO.csproj.GenerateResource.cache
+C:\Users\Рома\Documents\Курсовая работа\SHIO\obj\Debug\SHIO.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Documents\Курсовая работа\SHIO\obj\Debug\SHIO.csproj.CopyComplete
+C:\Users\Рома\Documents\Курсовая работа\SHIO\obj\Debug\SHIO.exe
+C:\Users\Рома\Documents\Курсовая работа\SHIO\obj\Debug\SHIO.pdb
